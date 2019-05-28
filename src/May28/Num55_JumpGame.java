@@ -1,4 +1,4 @@
-package greedyAlgorithm;
+package May28;
 
 public class Num55_JumpGame {
 	
