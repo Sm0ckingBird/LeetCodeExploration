@@ -1,4 +1,4 @@
-package May28;
+package Steps;
 
 public class Num55_JumpGame {
 	
