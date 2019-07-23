@@ -35,7 +35,7 @@ public class LongestPalindromeSubsequence {
 	public static int longestPalindromeSubseq_DP(String s) {
 		if(s == null || s.length() == 0)
 			return 0;
-		int[][] p_matrix = new int[s.length()][s.length()];
+		//int[][] p_matrix = new int[s.length()][s.length()];
 		//pass
 		return 0;
 	}
